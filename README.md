@@ -1,4 +1,4 @@
 kinetic
 =======
 
-playing with kinetic js framework
+Playing with kinetic js framework
